@@ -5,7 +5,7 @@ TAX_BRACKETS_2020 = (
     { "max": 163300, "rate": 24 },
     { "max": 207350, "rate": 32 },
     { "max": 518400, "rate": 35 },
-    { "rate": 37 }
+    { "rate": 38 }
 )
 
 def calculate_tax_by_bracket(income, brackets):
